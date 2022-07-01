@@ -1,0 +1,6 @@
+name: SortingBlocks
+main: me.despical.sortingblocks.Main
+author: Despical
+version: 1.0.0
+api-version: 1.13
+softdepend: [PlaceholderAPI, Multiverse-Core]

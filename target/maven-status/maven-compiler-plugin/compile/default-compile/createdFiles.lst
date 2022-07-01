@@ -1,0 +1,6 @@
+me\despical\sortingblocks\command\MainCommands.class
+me\despical\sortingblocks\sort\AbstractAlgorithm.class
+me\despical\sortingblocks\sort\algorithms\SelectionSort.class
+me\despical\sortingblocks\sort\ColumnBlocks.class
+me\despical\sortingblocks\sort\algorithms\ShuffleAlgorithm.class
+me\despical\sortingblocks\Main.class
